@@ -1,0 +1,18 @@
+{
+   "name": "Assign_group_memberships_temporarily_based_on_time",
+   "title": "Assign group memberships temporarily based on time",
+   "description": "Use Okta Workflows allows users to be added to groups for timed duration",
+   "connectors": [
+      "Okta"
+   ],
+   "links": [
+      {
+         "title": "Video Walk-through",
+         "destination": "https://www.loom.com/share/4f967cab02864f36812b3b0c41a2ae73"
+      },
+      {
+         "title": "Setup Documentation",
+         "destination": "https://github.com/rollinm/assign_group_memberships_temporarily_based_on_time/blob/master/readme.md"
+      }
+   ]
+}
